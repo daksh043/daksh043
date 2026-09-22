@@ -175,7 +175,7 @@
         <rect class="box" x="330" y="15" width="11" height="11" fill="#0e4429" style="animation-delay: 0.46s" />
         <rect class="box" x="330" y="30" width="11" height="11" fill="#26a641" style="animation-delay: 0.48s" />
         <rect class="box" x="330" y="45" width="11" height="11" fill="#006d32" style="animation-delay: 0.5s" />
-        <rect class="box" x="330" y="60" width="11" height="11" fill="#161b22" style="animation-delay: 0.52s" />
+        <rect class="box" x="330" y="60" width="11" height="11" fill="#0e4429" style="animation-delay: 0.52s" />
         <rect class="box" x="330" y="75" width="11" height="11" fill="#161b22" style="animation-delay: 0.54s" />
         <rect class="box" x="330" y="90" width="11" height="11" fill="#161b22" style="animation-delay: 0.56s" />
         <rect class="box" x="345" y="0" width="11" height="11" fill="#161b22" style="animation-delay: 0.46s" />
@@ -384,7 +384,7 @@
         <rect class="box" x="780" y="0" width="11" height="11" fill="#161b22" style="animation-delay: 1.04s" />
         <rect class="box" x="780" y="15" width="11" height="11" fill="#0e4429" style="animation-delay: 1.06s" />
         <rect class="box" x="780" y="30" width="11" height="11" fill="#0e4429" style="animation-delay: 1.08s" />
-        <text class="text" x="0" y="135">45 contributions in the last year</text>
+        <text class="text" x="0" y="135">46 contributions in the last year</text>
         <text class="text" x="650" y="135">Less</text>
         <rect x="680" y="125" width="11" height="11" fill="#161b22" rx="2" />
         <rect x="695" y="125" width="11" height="11" fill="#0e4429" rx="2" />
