@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Us - PulseFit Gym</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <div class="nav-container">
+      <div class="logo">PulseFit <span>Gym</span></div>
+      
+      <input type="checkbox" id="menu-toggle">
+      <label for="menu-toggle" class="menu-icon">&#9776;</label>
+      
+      <nav class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="trainers.html">Coaches</a>
+        <a href="schedule.html">Time Table</a>
+        <a href="memberships.html">Plans</a>
+        <a href="facilities.html">Facilities</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="container">
+      <h1 class="section-title">Contact Us</h1>
+      
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 40px;">
+        
+        <div>
+          <h2>Gym Location</h2>
+          <p>PulseFit Gym & Sports Hub</p>
+          <p>1st Floor, Main Market Road,</p>
+          <p>Near City Hospital,</p>
+          <p>Mumbai, Maharashtra 400001</p>
+          <br>
+          <p><strong>Phone:</strong> +91 98765 43210</p>
+          <p><strong>Email:</strong> info@pulsefitgym.in</p>
+          <br>
+          <a href="#" style="color: var(--secondary-color); font-weight: bold;">View on Google Maps (Link)</a>
+        </div>
+
+        <div class="contact-form">
+          <h2>Send us an inquiry</h2>
+          <form action="#" method="POST">
+            <div class="form-group">
+              <label for="name">Full Name:</label>
+              <input type="text" id="name" name="name" required>
+            </div>
+            
+            <div class="form-group">
+              <label for="phone">Phone Number:</label>
+              <input type="tel" id="phone" name="phone" required>
+            </div>
+
+            <div class="form-group">
+              <label for="program">Interested In:</label>
+              <select id="program" name="program">
+                <option value="general">General Membership</option>
+                <option value="pt">Personal Training</option>
+                <option value="cardio">Cardio & HIIT</option>
+                <option value="calisthenics">Calisthenics</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="message">Message (Optional):</label>
+              <textarea id="message" name="message" rows="4"></textarea>
+            </div>
+
+            <button type="submit" class="btn-primary" style="width: 100%;">Submit Inquiry</button>
+          </form>
+        </div>
+
+      </div>
+
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 PulseFit Gym & Sports Hub. All Rights Reserved.</p>
+  </footer>
+
+</body>
+</html>
