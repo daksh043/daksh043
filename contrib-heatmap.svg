@@ -281,7 +281,7 @@
         <rect class="box" x="555" y="30" width="11" height="11" fill="#161b22" style="animation-delay: 0.78s" />
         <rect class="box" x="555" y="45" width="11" height="11" fill="#39d353" style="animation-delay: 0.8s" />
         <rect class="box" x="555" y="60" width="11" height="11" fill="#0e4429" style="animation-delay: 0.82s" />
-        <rect class="box" x="555" y="75" width="11" height="11" fill="#161b22" style="animation-delay: 0.84s" />
+        <rect class="box" x="555" y="75" width="11" height="11" fill="#006d32" style="animation-delay: 0.84s" />
         <rect class="box" x="555" y="90" width="11" height="11" fill="#161b22" style="animation-delay: 0.86s" />
         <rect class="box" x="570" y="0" width="11" height="11" fill="#161b22" style="animation-delay: 0.76s" />
         <rect class="box" x="570" y="15" width="11" height="11" fill="#161b22" style="animation-delay: 0.78s" />
@@ -334,7 +334,7 @@
         <rect class="box" x="660" y="90" width="11" height="11" fill="#161b22" style="animation-delay: 1.0s" />
         <rect class="box" x="675" y="0" width="11" height="11" fill="#0e4429" style="animation-delay: 0.9s" />
         <rect class="box" x="675" y="15" width="11" height="11" fill="#0e4429" style="animation-delay: 0.92s" />
-        <rect class="box" x="675" y="30" width="11" height="11" fill="#161b22" style="animation-delay: 0.9400000000000001s" />
+        <rect class="box" x="675" y="30" width="11" height="11" fill="#0e4429" style="animation-delay: 0.9400000000000001s" />
         <rect class="box" x="675" y="45" width="11" height="11" fill="#161b22" style="animation-delay: 0.96s" />
         <rect class="box" x="675" y="60" width="11" height="11" fill="#161b22" style="animation-delay: 0.98s" />
         <rect class="box" x="675" y="75" width="11" height="11" fill="#161b22" style="animation-delay: 1.0s" />
@@ -384,9 +384,10 @@
         <rect class="box" x="780" y="0" width="11" height="11" fill="#161b22" style="animation-delay: 1.04s" />
         <rect class="box" x="780" y="15" width="11" height="11" fill="#161b22" style="animation-delay: 1.06s" />
         <rect class="box" x="780" y="30" width="11" height="11" fill="#161b22" style="animation-delay: 1.08s" />
-        <rect class="box" x="780" y="45" width="11" height="11" fill="#0e4429" style="animation-delay: 1.1s" />
+        <rect class="box" x="780" y="45" width="11" height="11" fill="#161b22" style="animation-delay: 1.1s" />
         <rect class="box" x="780" y="60" width="11" height="11" fill="#0e4429" style="animation-delay: 1.12s" />
-        <text class="text" x="0" y="135">51 contributions in the last year</text>
+        <rect class="box" x="780" y="75" width="11" height="11" fill="#0e4429" style="animation-delay: 1.1400000000000001s" />
+        <text class="text" x="0" y="135">56 contributions in the last year</text>
         <text class="text" x="650" y="135">Less</text>
         <rect x="680" y="125" width="11" height="11" fill="#161b22" rx="2" />
         <rect x="695" y="125" width="11" height="11" fill="#0e4429" rx="2" />
