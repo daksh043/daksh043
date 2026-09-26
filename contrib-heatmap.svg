@@ -387,7 +387,8 @@
         <rect class="box" x="780" y="45" width="11" height="11" fill="#161b22" style="animation-delay: 1.1s" />
         <rect class="box" x="780" y="60" width="11" height="11" fill="#0e4429" style="animation-delay: 1.12s" />
         <rect class="box" x="780" y="75" width="11" height="11" fill="#0e4429" style="animation-delay: 1.1400000000000001s" />
-        <text class="text" x="0" y="135">56 contributions in the last year</text>
+        <rect class="box" x="780" y="90" width="11" height="11" fill="#006d32" style="animation-delay: 1.1600000000000001s" />
+        <text class="text" x="0" y="135">61 contributions in the last year</text>
         <text class="text" x="650" y="135">Less</text>
         <rect x="680" y="125" width="11" height="11" fill="#161b22" rx="2" />
         <rect x="695" y="125" width="11" height="11" fill="#0e4429" rx="2" />
