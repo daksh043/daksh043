@@ -1,6 +1,6 @@
 <div align="center">
     <h3><code>daksh043@github ~ $ ./skyline-3d --isometric</code></h3>
-    <img src="./contrib-skyline-3d.svg" width="860" />
+    <img src="./contrib-skyline-card.svg" width="860" />
     <br><br>
     <h3><code>daksh043@github ~ $ whoami</code></h3>
     <table>
