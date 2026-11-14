@@ -1,8 +1,8 @@
 {
-  "total": 167,
+  "total": 168,
   "best_day": 17,
   "longest_streak": 11,
-  "current_streak": 9,
+  "current_streak": 0,
   "days": [
     {
       "date": "2025-11-09",
@@ -1591,8 +1591,8 @@
     },
     {
       "date": "2026-11-13",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 1
     },
     {
       "date": "2025-11-15",
@@ -1853,6 +1853,11 @@
       "date": "2026-11-07",
       "level": 1,
       "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "level": 0,
+      "count": 0
     }
   ]
 }
